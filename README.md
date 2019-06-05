@@ -17,4 +17,6 @@ You will need to select (cropping out the edges) the desired image frame for acc
 
 * [MatLab](https://www.mathworks.com/products/matlab.html) - framework
 
+## Output
+
 ![nightview result](https://user-images.githubusercontent.com/31485226/58988748-59143080-87b0-11e9-9503-fbd5db228c18.png)
