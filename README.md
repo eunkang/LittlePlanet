@@ -25,3 +25,5 @@ Kun Kim (kkim698@gatech.edu)
 
 ![nightview result](https://user-images.githubusercontent.com/31485226/58988748-59143080-87b0-11e9-9503-fbd5db228c18.png)
 
+![quayside result](https://user-images.githubusercontent.com/31485226/59004973-b37db300-87e9-11e9-89cd-8509b40df07d.png)
+
