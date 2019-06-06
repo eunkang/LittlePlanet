@@ -27,5 +27,5 @@ Kun Kim (kkim698@gatech.edu)
 
 ![quayside result](https://user-images.githubusercontent.com/31485226/59004973-b37db300-87e9-11e9-89cd-8509b40df07d.png)
 
-![oneworld result](https://user-images.githubusercontent.com/31485226/59005021-e627ab80-87e9-11e9-9b55-d918226d9368.png)
+![oneworld result](https://user-images.githubusercontent.com/31485226/59005071-1a9b6780-87ea-11e9-9a15-2390ee34862b.png)
 
